@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Rainy Day Ray's Blog</title>
+<link rel="stylesheet" href="assignment2-2.css" type="text/css" />
+
+</head>
+<body>
+<div id = "picture">
+<p><img src= "gloomseattle.jpg" alt ="SEATTLE"/> </p>
+</div>
+<h1>The Rainy Day Blog via Ray Rodgers</h1>
+<h2>The Thoughts and theories of a guy</h2>
+<div id = "clickbait">
+<div id="pages">
+<h3> My Pages</h3>
+<ul id = "stuff">
+<li> My Home Page</li>
+<li> My Gallery</li>
+<li> About me </li>
+</ul>
+</div>
+<div id="nation">
+<h3> The Nation </h3>
+<ul id = "stuff2">
+<li> Steve Rodgers</li>
+<li> Lionel Ritchie</li>
+<li> Steve Austin</li>
+<li> Gustavo Frein </li>
+<li> Princess Consuela </li>
+<li> Crap Bag</li>
+</ul>
+</div>
+<div id = "categories">
+<h3>  Categories</h3>
+<ul id = "stuff3">
+<li> Work</li>
+<li> Play </li>
+<li> Anything in between</li>
+</ul>
+</div>
+</div>
+<div id ="body">
+<div id = "MainBody">
+<h4> The Daily Work Grind Part one</h4>
+<h4> Posted on Feb 14, 2015</h4>
+<h4> Categories: Work</h4>
+<p> Monday morning at a new job in a new city made me grateful that drinking coffee by the gallon is not a strange act in this lovely country...</p>
+</div>
+<div id = "SecondBody">
+<h4> Night out in New York Part one</h4>
+<h4> Posted on Feb 14, 2015</h4>
+<h4> Categories: Play</h4>
+<p> My First night out was quite the blur, a mixture of alcohol, loud music and trying to look cool in front of my new colleagues left me stuck on a catwalk several floors up in a neighbourhood I didn't recognize... </p>
+</div>
+<div id = "ThirdBody">
+<h4> What is the deal with Airline Food?</h4>
+<h4> Posted on Feb 14, 2015</h4>
+<h4> Categories: Anything in between</h4>
+<p> Have you ever really thought about the original comedy writers back in the day? I'm talking 40-50 years ago. The times where a pie to the face was considered comedy gold... </p>
+</div>
+<blockquote cite="http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.myphotodump.com%2Fgloomy-commercial-seattle-2048-x-1365%2F&ei=6LSIVcGIEsn8oQStxLv4DQ&bvm=bv.96339352,d.cGU&psig=AFQjCNGuRUzsAU6CViVHHiavlOEDwFz6Aw&ust=1435108966262990">
+Special thanks to www.myphotodump.com for the great picture of Seattle!
+</blockquote>
+
+</body>
+</html>
